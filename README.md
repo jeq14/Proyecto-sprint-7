@@ -1,9 +1,17 @@
-# Proyecto-sprint-7
+Este proyecto marca el inicio de mi trayectoria como analista de datos, y está centrado en dominar los fundamentos de programación en Python. El objetivo era consolidar los conceptos básicos como estructuras de datos (listas, strings, enteros, booleanos), control de flujo (if, else, loops), manejo de errores, y manipulación básica de textos. Simular un entorno de aprendizaje progresivo donde se aplican estas herramientas a ejercicios prácticos que reflejan problemas cotidianos de la ciencia de datos.
 
-Trabajas para la tienda online Ice que vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. Tienes que identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias.
+⚙️ Herramientas utilizadas:
+      Python · Pandas · Jupyter Notebook
 
-Delante de ti hay datos que se remontan a 2016. Imaginemos que es diciembre de 2016 y estás planeando una campaña para 2017.
 
-Lo importante es adquirir experiencia de trabajo con datos. Realmente no importa si estás pronosticando las ventas de 2017 en función de los datos de 2016 o las ventas de 2027 en función de los datos de 2026.
+​
 
-El dataset contiene una columna "rating" que almacena la clasificación ESRB de cada juego. El Entertainment Software Rating Board (la Junta de clasificación de software de entretenimiento) evalúa el contenido de un juego y asigna una clasificación de edad como Adolescente o Adulto.
+🏆 Logros alcanzados:
+
+Dominio de estructuras condicionales y bucles para tomar decisiones automáticas dentro del código.
+
+Uso de técnicas de limpieza de cadenas y formateo de datos.
+
+Implementación de estructuras iterativas para recorrer colecciones de datos.
+
+Adquisición de buenas prácticas de codificación desde el inicio del aprendizaje.
